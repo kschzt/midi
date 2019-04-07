@@ -2,7 +2,7 @@ import midi from 'midi'
 import startClock from './src/clock'
 import deepool from 'deepool'
 
-const port = 4 // MIDI output port
+const port = 0 // MIDI output port
 const channel = 0x8f + 1 // 0x8f + MIDI channel
 const frameEvents = new Map()
 let frameNumber = 0

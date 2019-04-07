@@ -16,3 +16,6 @@ Some directions to go from here:
 - Multiple channels support
 - CC generator functions
 
+# running
+
+`yarn start`

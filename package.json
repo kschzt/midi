@@ -6,5 +6,8 @@
     "deepool": "^2.2.0",
     "midi": "^0.9.5",
     "nanotimer": "^0.3.15"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/babel-node index"
   }
 }
