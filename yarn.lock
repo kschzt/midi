@@ -913,6 +913,11 @@ deep-extend@^0.6.0:
   resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.6.0.tgz#c4fa7c95404a17a9c3e8ca7e1537312b736330ac"
   integrity sha512-LOHxIOaPYdHlJRtCQfDIVZtfw/ufM8+rVj649RIHzcm/vGwQRXFt6OPqIFWsm2XEMrNIEtWR64sY1LEKD2vAOA==
 
+deepool@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/deepool/-/deepool-2.2.0.tgz#d8c4be7a1da7b8cb27b54c2f4e7cfadcc363ae05"
+  integrity sha1-2MS+eh2nuMsntUwvTnz63MNjrgU=
+
 define-property@^0.2.5:
   version "0.2.5"
   resolved "https://registry.yarnpkg.com/define-property/-/define-property-0.2.5.tgz#c35b1ef918ec3c990f9a5bc57be04aacec5c8116"
